@@ -1,4 +1,4 @@
-# ANÁLISIS DE VENTAS - EQUIPO B
+# VERSIÓN CARLOS - ANÁLISIS DE VENTAS
 import pandas as pd
 import numpy as np
 
@@ -9,5 +9,3 @@ datos = {
 
 df = pd.DataFrame(datos)
 print(df)
-print(f"\nPromedio de ventas: {df['ventas'].mean()}")
-print(f"Mes con más ventas: {df.loc[df['ventas'].idxmax(), 'mes']}")
