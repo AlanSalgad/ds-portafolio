@@ -1,4 +1,4 @@
-# VERSIÓN ALAN - ANÁLISIS DE VENTAS
+# ANÁLISIS DE VENTAS - ALAN & CARLOS
 import pandas as pd
 import numpy as np
 
