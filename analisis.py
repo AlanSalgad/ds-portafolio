@@ -1,8 +1,7 @@
-# Análisis exploratorio - versión 1
+# ANÁLISIS DE VENTAS - EQUIPO A
 import pandas as pd
 import numpy as np
 
-# Datos de ventas ficticios
 datos = {
     'mes': ['Ene', 'Feb', 'Mar', 'Abr', 'May'],
     'ventas': [1200, 1500, 1100, 1800, 2100]
