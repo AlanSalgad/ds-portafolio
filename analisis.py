@@ -1,4 +1,4 @@
-# ANÁLISIS DE VENTAS - EQUIPO A
+# ANÁLISIS DE VENTAS - EQUIPO B
 import pandas as pd
 import numpy as np
 
